@@ -189,9 +189,11 @@ killall Safari
 # Other
 # ================================================================================
 
-
 # スクロールバーを常時表示する
 defaults write NSGlobalDomain AppleShowScrollBars -string "Always"
+
+# スクロールバーのクリック時に「クリックされた場所にジャンプ」
+defaults write -g AppleScrollerPagingBehavior -bool true
 
 # クラッシュレポートを無効化する
 defaults write com.apple.CrashReporter DialogType -string "none"
