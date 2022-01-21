@@ -52,6 +52,7 @@ brew install --cask discord
 brew install --cask zoom
 
 # Develop
+brew install --cask iterm2
 brew install --cask docker
 brew install --cask local
 brew install --cask sequel-pro
