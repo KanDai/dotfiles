@@ -58,6 +58,7 @@ brew install --cask local
 brew install --cask sequel-pro
 brew install --cask stoplight-studio
 brew install --cask imageoptim
+brew install --cask sourcetree
 
 # Other
 brew install --cask path-finder
