@@ -59,6 +59,7 @@ brew install --cask sequel-pro
 brew install --cask stoplight-studio
 brew install --cask imageoptim
 brew install --cask sourcetree
+brew install --cask cyberduck
 
 # Other
 brew install --cask path-finder
@@ -67,7 +68,7 @@ brew install --cask kap
 brew install --cask pixelsnap
 brew install --cask 1password
 brew install --cask alfred
-brew install --cask mapture
+brew install --cask fuwari
 brew install --cask notion
 # brew install --cask dynalist
 # brew install --cask evernote
