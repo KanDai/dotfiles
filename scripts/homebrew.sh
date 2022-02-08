@@ -70,6 +70,8 @@ brew install --cask 1password
 brew install --cask alfred
 brew install --cask fuwari
 brew install --cask notion
+brew install --cask rectangle
+brew install --cask keka
 # brew install --cask dynalist
 # brew install --cask evernote
 # brew install --cask dropbox
